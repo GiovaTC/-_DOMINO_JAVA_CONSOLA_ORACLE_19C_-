@@ -12,4 +12,4 @@ public class Main {
         DominoGame game = new DominoGame(name);
         game.play();
     }
-}   
+}
