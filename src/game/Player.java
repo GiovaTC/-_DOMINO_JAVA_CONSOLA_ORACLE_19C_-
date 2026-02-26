@@ -14,4 +14,4 @@ public class Player {
     public int getScore() {
         return hand.size();
     }
-}   
+}
