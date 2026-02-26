@@ -2,6 +2,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e95e2e6-6931-4d51-ba1b-0b3141adb0df" />  
 
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/82d835f6-aeef-4512-abfa-1e71458e955f" /> 
+
 A continuación tienes una implementación completa, académica y funcional de un juego de Dominó en Java (consola, IntelliJ) que registra resultados en Oracle Database 19c mediante JDBC. El enfoque es universitario / portafolio profesional, con separación clara de responsabilidades .
 
 🁫 DOMINÓ – JAVA CONSOLA + ORACLE 19c:
