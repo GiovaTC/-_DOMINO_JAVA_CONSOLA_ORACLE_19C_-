@@ -17,4 +17,4 @@ public class DominoTile {
     public String toString() {
         return "[" + left + "|" + right + "]";
     }
-}   
+}
